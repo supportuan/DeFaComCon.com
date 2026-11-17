@@ -13,7 +13,7 @@ export default function App() {
       <ScrollVideo src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260709_080129_da34b00e-a5db-47dd-81a1-cccad79ac1ac.mp4" />
       <PillNav aboutSectionRef={aboutSectionRef} />
       <div ref={scrollContainerRef} className="relative" style={{ height: '500vh' }}>
-        <ScrollFloat>{`Unleash The\nFull Power`}</ScrollFloat>
+        <ScrollFloat>{`DeFaComCon\n full power`}</ScrollFloat>
         <GlassPanel
           scrollContainerRef={scrollContainerRef}
           aboutSectionRef={aboutSectionRef}
